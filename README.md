@@ -1,1 +1,1 @@
-![Nikki's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true&hide=prs&hide_rank=false&include_all_commits=true&cache_seconds=1800&token=${{ secrets.PAT_1 }})
+.
